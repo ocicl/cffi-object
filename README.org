@@ -1,0 +1,10 @@
+* cffi-object
+
+A Common Lisp library that enables fast and convenient interoperation
+with foreign objects.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/cffi-object |
+| commit  | e03f4e1                                        |
+| systems | cffi-object                                    |
+|---------+------------------------------------------------|
