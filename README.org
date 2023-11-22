@@ -5,6 +5,6 @@ with foreign objects.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/bohonghuang/cffi-object |
-| commit  | be716dd                                        |
+| commit  | 0924819                                        |
 | systems | cffi-object                                    |
 |---------+------------------------------------------------|
